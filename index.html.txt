@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bhakti Vhanamane - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Bhakti Vhanamane</h1>
+        <p>B.Tech Computer Science Student | Web Developer | Programmer</p>
+    </header>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>About Me</h2>
+        <img src="profile.jpg" alt="My Photo">
+        <p>
+            Hello! I am a 2nd Year B.Tech Computer Science student at 
+            Shree Siddheshwar Women’s College of Engineering, Solapur.
+            I am passionate about web development and programming.
+            I have knowledge of HTML, CSS, JavaScript, C, C++, and Java.
+        </p>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>C Programming</li>
+            <li>C++</li>
+            <li>Java (OOP)</li>
+            <li>Data Structures</li>
+            <li>MS Office</li>
+        </ul>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects">
+        <h2>My Projects</h2>
+
+        <div class="project-box">
+            <h3>Personal Portfolio Website</h3>
+            <p>
+                Designed and developed a responsive personal portfolio 
+                website using HTML and CSS.
+            </p>
+        </div>
+
+        <div class="project-box">
+            <h3>Job Board Website</h3>
+            <p>
+                Created a job board application where employers can post jobs 
+                and job seekers can apply.
+            </p>
+        </div>
+
+        <div class="project-box">
+            <h3>Online Quiz Maker</h3>
+            <p>
+                Developed a quiz platform that allows users to create and 
+                attempt quizzes with instant score results.
+            </p>
+        </div>
+
+    </section>
+
+    <!-- Resume Section -->
+    <section class="resume">
+        <h2>Resume</h2>
+        <a href="Resume_Template.pdf" download class="btn">Download Resume (PDF)</a>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: bhakti@example.com</p>
+        <p>Phone: +91 9876543210</p>
+        <p>Location: Solapur, Maharashtra, India</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Bhakti Vhanamane | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
